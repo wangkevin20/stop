@@ -46,15 +46,27 @@ function onClick() {
                                               else if(clicks==1000)
                                                 {message = "dude, you've hit the" + clicks + " milestone.";}
                                                 else if(clicks==1400)
-                                                  {message = "you know what. The next witty dialogue is in 10,000" + clicks;}
+                                                  {message = "you know what. The next witty dialogue is in 10,000 clicks";}
                                                   else if(clicks==1401)
-                                                    {message = "Good luck. Winks*";}
+                                                    {message = "Good luck. Wink*";}
+                                                    else if(clicks==2001)
+                                                      {message = "Relly, your gonna continue.";}
+                                                      else if(clicks==4000)
+                                                        {message = "Wow. I can't believe you";}
+                                                        else if(clicks==6969)
+                                                          {message = "Ha. Nice";}
                                                     else if(clicks==8000)
                                                       {message = "Omg";}
                                                       else if(clicks==10000)
                                                         {message = "why. Just why. You wasted so much time, what is wrong with you?!";}
                                                         else if(clicks==10010)
                                                           {message = "u know what. No more witty dialogues. If you continue clicking you would just see the default dialogue";}
+                                                          else if(clicks==10011)
+                                                            {message = "I'm serious this time.";}
+                                                            else if(clicks==10012)
+                                                              {message = "stop.";}
+                                                              else if(clicks==10013)
+                                                                {message = "Bad.";}
                                                           else if(clicks>=1000000)
                                                             {message = "Why. please just go back :-: ";}
                                                             else
